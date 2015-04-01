@@ -1,0 +1,8 @@
+/target
+/.settings
+/.tomcatplugin
+/work
+classes
+node_modules/
+# Package Files #
+*.jar
